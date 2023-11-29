@@ -1,4 +1,4 @@
-![Logo de Removedor de Fondo de Imágenes](url_donde_se_encuentre_el_logo)
+![Logo de Removedor de Fondo de Imágenes](https://raw.githubusercontent.com/bladealex9848/ImageBackgroundRemover/main/logo.png)
 
 # Removedor de Fondo de Imágenes
 
