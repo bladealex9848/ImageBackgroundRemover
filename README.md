@@ -31,7 +31,7 @@ Las contribuciones son siempre bienvenidas. No dudes en enviar un Pull Request o
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - mira el archivo `LICENSE` para más detalles.
+Este proyecto está licenciado bajo la [Licencia MIT](LICENSE) - mira el archivo LICENSE para más detalles.
 
 ## Créditos
 
